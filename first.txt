@@ -1,3 +1,5 @@
 the first file
 creating a new branch is quick AND simple.
 add merge
+add modify text
+Stashed changes
